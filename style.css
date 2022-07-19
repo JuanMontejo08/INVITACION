@@ -17,7 +17,7 @@
 
 header{/*Imagen y fondo primera pagina*/
     height: 100vh;
-    background-image: linear-gradient(to top, rgba(248, 248, 248, 0.493) 0%, rgba(248, 248, 248, 0.493) 100%), url(/fotos/cancha.jpg);
+    background-image: linear-gradient(to top, rgba(248, 248, 248, 0.493) 0%, rgba(248, 248, 248, 0.493) 100%), url(fotos/cancha.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
