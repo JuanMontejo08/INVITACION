@@ -314,8 +314,11 @@ footer{/*Color pie de pagina*/
         width: 80%;
         justify-content: space-evenly;
     }
+   }
     .social-media-icon{
         margin-left: 0;
+        margin: auto;
+        margin-left: 15px;
     }
     .social-media i{
         margin-left: 0;
