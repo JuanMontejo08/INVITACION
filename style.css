@@ -348,7 +348,10 @@ footer{/*Color pie de pagina*/
     }
     .social-media{
         width: 600%;
-        padding: 0 0 0 25%;
+        padding: 0 0 0 22,5%;
+    }
+    .social-media-icon{
+        padding: 3px;
     }
     .contact-us{
         width: 90%;
